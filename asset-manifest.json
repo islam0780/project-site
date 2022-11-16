@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/islam0780/project-site/static/css/main.073c9b0a.css",
+    "main.js": "/islam0780/project-site/static/js/main.073962f0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/islam0780/project-site/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/islam0780/project-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/islam0780/project-site/index.html",
+    "main.073c9b0a.css.map": "/islam0780/project-site/static/css/main.073c9b0a.css.map",
+    "main.073962f0.js.map": "/islam0780/project-site/static/js/main.073962f0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/islam0780/project-site/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.073962f0.js"
+  ]
+}
